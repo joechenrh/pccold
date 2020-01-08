@@ -85,8 +85,11 @@ keyuid="498062" #关注用户ID
 - [pystt](https://github.com/dust8/pystt)
 
 
+## TODO
 
-
+- Add GUI
+- Add danmu filter
+- Send danmu
 
 
 
